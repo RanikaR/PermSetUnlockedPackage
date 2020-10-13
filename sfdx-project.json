@@ -12,6 +12,7 @@
     "sfdcLoginUrl": "https://login.salesforce.com",
     "sourceApiVersion": "47.0",
     "packageAliases": {
-        "salesApps": "0Ho3g000000GmaJCAS"
+        "salesApps": "0Ho3g000000GmaJCAS",
+        "salesApps@1.0.0-1": "04t3g000000HFq4AAG"
     }
 }
